@@ -5,7 +5,7 @@ const num2 =1;
 const multiply =(num1*num2);
 
 const random = 7;
-Math.floor ((Math.random() * 17) + 1)
+math.floor ((math.random() * 17) + 1)
 
 
 const num3= 28;
